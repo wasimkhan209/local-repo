@@ -25,3 +25,15 @@ a = 16
 b = 19
 c = a+b
 print ("the sum of a and b is :" , c)
+<<<<<<< HEAD
+=======
+
+# print the types of the variables
+print (type(name))
+print (type(age))
+print (type(semester))
+print (type(prog))
+print (type(subject))
+print (type(uni))
+print (type(c))
+>>>>>>> main
