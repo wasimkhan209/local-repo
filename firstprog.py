@@ -19,4 +19,9 @@ print("Program is :" , prog)
 print("Subject is :" , subject)
 print("University name is :" , uni)
 
+# adding two vlaues in python
 
+a = 16
+b = 19
+c = a+b
+print ("the sum of a and b is :" , c)
