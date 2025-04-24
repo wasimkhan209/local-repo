@@ -6,6 +6,7 @@ print ("hello world")
 
 name = "wasim ullah khan"
 age = 20
+old = False
 semester = 6
 prog = "BS"
 subject = "Computer Science"
@@ -26,6 +27,9 @@ b = 19
 c = a+b
 print ("the sum of a and b is :" , c)
 
+# here d is user for just checking the None Type in python
+d = None 
+
 # print the types of the variables
 print (type(name))
 print (type(age))
@@ -34,3 +38,4 @@ print (type(prog))
 print (type(subject))
 print (type(uni))
 print (type(c))
+print (type(old))
