@@ -27,7 +27,7 @@ b = 19
 c = a+b
 print ("the sum of a and b is :" , c)
 
-# here d is user for just checking the None Type in python
+# here d is use for just checking the None Type in python
 d = None 
 
 # print the types of the variables
