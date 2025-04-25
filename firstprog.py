@@ -45,7 +45,7 @@ print (type(old))
 # conditional statements
 # if-elif-else
 # example
-color = input("light color")
+color = input("light color : ")
 if(color == "red"):
     print ("stop")
 elif(color == "yellow"):
