@@ -39,3 +39,18 @@ print (type(subject))
 print (type(uni))
 print (type(c))
 print (type(old))
+
+
+
+# conditional statements
+# if-elif-else
+# example
+color = input("light color")
+if(color == "red"):
+    print ("stop")
+elif(color == "yellow"):
+    print("Ready to Go")
+elif(color == "Green"):
+    print("Now you can Go")
+else:
+    print("you are fully not allowed to go becuse you are under 18")
