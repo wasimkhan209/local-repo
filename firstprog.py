@@ -43,7 +43,7 @@ print (type(old))
 
 
 # conditional statements
-# if-elif-else
+# if-elif-else strings
 # example
 color = input("light color : ")
 if(color == "red"):
@@ -54,3 +54,15 @@ elif(color == "Green"):
     print("Now you can Go")
 else:
     print("you are fully not allowed to go becuse you are under 18")
+
+# conditional statements entering the interger data type
+
+ball = int(input("Enter the hiting of ball : "))
+if(ball == 6):
+    print("you are the 1st position")
+elif(ball == 4):
+    print("you are second position holder")
+elif(ball == 2):
+    print(" you aer the 3rd position holder")
+else:
+    print("oh! you lose the match")
