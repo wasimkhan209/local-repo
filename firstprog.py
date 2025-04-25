@@ -63,7 +63,7 @@
 # elif(ball == 4):
 #     print("you are second position holder")
 # elif(ball == 2):
-#     print(" you aer the 3rd position holder")
+#     print(" you are the 3rd position holder")
 # else:
 #     print("oh! you lose the match")
 
@@ -95,14 +95,15 @@ print ("reminder of num1 and num2 is : ", rem)
 
 # Relational operators
 
-print (num1 == num2) # Flase
+print (num1 == num2) # False
 print (num1 != num2) # True
 print (num1 < num2)  #True
-print (num1 > num2)  #Flase
+print (num1 > num2)  #False
 print (num1 <= num2) # True
-print (num1 >= num2) # Flase
+print (num1 >= num2) # False
 
 # Assignment operator 
-"""
-( ==, +=, -=, *=, /=, %= , **= )
-"""
+# ( ==, +=, -=, *=, /=, %= , **= )
+
+# logical operator
+# (not , and , OR)
