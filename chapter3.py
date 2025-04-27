@@ -3,27 +3,33 @@
 marks = [92.5, 96.3, 94.4, 99.99, 65, "W"]
 print(marks)
 print(type(marks))
+
 print(len(marks))
+
 print(marks[4])
+
 marks.append("O")
+
 print (marks)
+
 marks.insert(2,98.5)
+
 print(marks)
+
 print(len(marks))
+
+# sorting the list
 str = ["w", "o", "A", "k" ,"r"]
 str.sort()
 print(str)
+
+# Reverse of the List
+
 str.sort(reverse=True)
 print(str)
 print(len(str))
 
-m1 =input("enter the name of the first Movie : ")
-m2 = input("enter the name of the second Movie : ")
-m3 = input("enter the name of the third Movie : ")
-
-
-print([m1,m2,m3])
-print(type([m1,m2,m3]))
+# write a prog to input 3 movies name and print then as a list and also check their type
 
 movies = [
     input("enter the 1st movies : "),
